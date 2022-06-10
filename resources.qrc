@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/cropping.png</file>
+        <file>images/save.png</file>
+        <file>images/scissor_app.png</file>
+        <file>images/scissors.ico</file>
+        <file>images/scissors.png</file>
+        <file>images/website.png</file>
+    </qresource>
+</RCC>
